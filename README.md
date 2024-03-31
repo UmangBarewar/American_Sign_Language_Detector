@@ -45,8 +45,9 @@ Below is an example of the output image showing the detected ASL hand signs:
 <div style="display: flex;">
   <img src="output1.png" alt="ASL Hand Signs Detection" style="width: 50%;">
   <img src="output3.png" alt="ASL Hand Signs Detection" style="width: 50%;">
+  <img src="output2.png" alt="ASL Hand Signs Detection">
 </div>
-![ASL Hand Signs Detection](output2.png)
+
 
 ## Contributions
 
