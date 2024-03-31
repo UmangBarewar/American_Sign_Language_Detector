@@ -5,6 +5,7 @@ This repository contains Python code for detecting American Sign Language (ASL) 
 ## Overview
 
 The ASL hand sign detector utilizes the YOLOv8 model trained on the provided dataset to detect and localize hand signs in images. It leverages the COCO dataset's pre-trained weights and was trained for 10 epochs on Google Colab for GPU acceleration.
+Dataset link :https://public.roboflow.com/object-detection/american-sign-language-letters/1
 
 ## Requirements
 
