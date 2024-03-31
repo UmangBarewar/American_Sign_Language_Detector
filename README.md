@@ -42,8 +42,7 @@ python ASL_Hand_Sign_Detector.py
 
 Below is an example of the output image showing the detected ASL hand signs:
 
-![ASL Hand Signs Detection](output1.png)
-![ASL Hand Signs Detection](output3.png)
+![ASL Hand Signs Detection](output1.png)![ASL Hand Signs Detection](output3.png)
 ![ASL Hand Signs Detection](output2.png)
 
 ## Contributions
