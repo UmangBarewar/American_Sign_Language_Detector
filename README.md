@@ -16,6 +16,12 @@ The ASL hand sign detector utilizes the YOLOv8 model trained on the provided dat
 
 ## Usage
 
+ Install the dependencies using pip:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 1. Clone this repository:
 
 ```bash
@@ -58,3 +64,9 @@ Contributions to improve the functionality, performance, or documentation of thi
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for non-commercial purposes. However, please note that there is no implied support or liability for this project. Use at your own risk.
 
 ---
+
+This project is licensed under the [License Name](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+```
+
+You can customize this template according to your project's specific requirements and include it as your README.md file in your GitHub repository. Make sure to include a requirements.txt file with your project that lists all the dependencies required to run the project.
